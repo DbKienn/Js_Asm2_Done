@@ -22,7 +22,7 @@ const data1 = {
   fulldate: "21/03/2023",
 };
 const data2 = {
-  id: "D001",
+  id: "D002",
   petName: "Misa",
   age: 4,
   type: "Cat",
